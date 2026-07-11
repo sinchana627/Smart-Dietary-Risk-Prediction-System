@@ -1,0 +1,21 @@
+{
+  "title": "Dietary Risk Prediction Dataset",
+  "id": "healthml/dietary-risk-prediction",
+  "licenses": [
+    {
+      "name": "CC0: Public Domain"
+    }
+  ],
+  "keywords": [
+    "health",
+    "diet",
+    "nutrition",
+    "classification",
+    "machine learning",
+    "allergies",
+    "food safety",
+    "risk assessment"
+  ],
+  "collaborators": [],
+  "data": []
+}
